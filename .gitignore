@@ -1,0 +1,8 @@
+# IDEA
+.idea/
+
+# Stupid Mac
+.DS_store
+
+# NPM
+node_modules/

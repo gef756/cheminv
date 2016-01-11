@@ -8,4 +8,4 @@
 node_modules/
 
 # Conf files
-conf/server.js
+config/server.js

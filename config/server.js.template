@@ -1,0 +1,5 @@
+'use strict';
+
+module.exports = {
+  authSecret: 'Put Auth Secret Here'  // Put Auth Secret Here
+};
